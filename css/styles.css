@@ -28,6 +28,7 @@
 @media screen and (max-width: 768px) {
 	#banner {
 		height:300px;
+		background-position:50% 65%;
 	}
 	#banner span {
 		height:200px;
